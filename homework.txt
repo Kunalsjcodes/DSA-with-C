@@ -1,0 +1,3 @@
+min & max number in LL
+search in double LL
+display full node including location on that node
